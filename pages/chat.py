@@ -1,4 +1,3 @@
-from multiprocessing.resource_sharer import stop
 import streamlit as st
 
 # A very basic version of a comment section for Orphanet
